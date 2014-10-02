@@ -1,9 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MapGenerator.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../jsimoes/RA/Assets/Hao_MrJoy/Use/Shader.shader">
     <Files>
-      <File FileName="Assets/MapGenerator.cs" Line="21" Column="30" />
-      <File FileName="Assets/MapGenerator.cs" Line="34" Column="1" />
+      <File FileName="../../jsimoes/RA/Assets/Hao_MrJoy/Use/Shader.shader" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
